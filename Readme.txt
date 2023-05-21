@@ -1,0 +1,1 @@
+O projeto trata-se de uma pesquisa realizada com os alunos da instituição de ensino Proz Educação(Divinópois-MG) onde são realizadas e armazenadas perguntas no estilo de um formulário e posteriormente passadas à coordenação para a realização de possíveis mudanças no ambiente de ensino.
